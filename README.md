@@ -29,7 +29,6 @@ My toolkit includes a blend of powerful analytics tools and programming language
 - Business Intelligence Tools: Tableau and PowerBi
 - Data Processing: Python (Pandas, NumPy, Matplotlib, Seaborn, Sklearn), Excel
 - Database Management: SQL
-These tools have been instrumental in my data analytics projects.
 
 
 🎓 Education:
