@@ -18,7 +18,7 @@ I'm a life-long learner who believes in building solid foundations before diving
 
 🌟 Career highlights:
 
-- Worked in 3 different startups of different maturity levels.
+- Worked in 3 different startups of different maturity levels in different capacity.
 - Was the 1st hire in my first startup experience where we built from scratch.
 - Was the 2nd hire in the second startup where I focused on driving growth.
 
