@@ -16,7 +16,7 @@ I'm a life-long learner who believes in building solid foundations before diving
 🔭 Looking to collaborate on: Projects involving data analysis, visualization, and model training where I can apply and enhance my skills in Python and Machine Learning. To deepen my understanding and proficiency in Python and ML models for more advanced data manipulation, analysis, and predictions.
 
 
-📬 How to reach me: You can find me on Linkedin(https://www.linkedin.com/in/yanianada/).
+📬 How to reach me: Linkedin(https://www.linkedin.com/in/yanianada/) or email nadayania@gmail.com
 
 
 🌟 Career highlights:
