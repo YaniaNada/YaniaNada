@@ -3,7 +3,9 @@ Hi, I’m Yania 👋
 📍 Barcelona
  
 I’m an Analyst specializing in Data Science who believes that data can help create a better world 🌏
-Tableau portfolio: https://public.tableau.com/app/profile/yania.nada/vizzes
+
+
+📊Tableau portfolio: https://public.tableau.com/app/profile/yania.nada/vizzes
 
 
 🌱 About me: 
