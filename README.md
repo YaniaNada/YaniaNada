@@ -3,6 +3,7 @@ Hi, I’m Yania 👋
 📍 Barcelona
  
 I’m an Analyst specializing in Data Science who believes that data can help create a better world 🌏
+Tableau portfolio: https://public.tableau.com/app/profile/yania.nada/vizzes
 
 
 🌱 About me: 
@@ -47,7 +48,6 @@ My toolkit includes a blend of powerful analytics tools and programming language
 🔎 Courses:
 - Coursera: Machine learning Specialization - Regression and Classification
 - 365 Data Science: Machine Learning with Naive Bayes, Machine Learning with knn, Machine Learning with SVM, Machine Learning with Decision Tree and Random Forests
-
 
 
 <!---
