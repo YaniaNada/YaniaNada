@@ -40,16 +40,15 @@ My toolkit includes a blend of powerful analytics tools and programming language
 - Bachelor in Electrical Engineering: Basaveshwar Engineering College, India
 
 
-📜 Certifications:
-- Coursera: Python Data Analytics, Advanced MySQL Topics, 
-- LinkedIn: ETL in Python & SQL, Intermediate SQL for Data Scientists, Python Essential Training, SQL Essential Training
-- FreeCodeCamp: Data Analysis with Python
-- 365 Data Science: Statistics
-
-
 🔎 Courses:
-- Coursera: Machine learning Specialization - Regression and Classification
-- 365 Data Science: Machine Learning with Naive Bayes, Machine Learning with knn, Machine Learning with SVM, Machine Learning with Decision Tree and Random Forests
+
+- FreeCodeCamp: Data Analysis with Python
+
+- Coursera: Python Data Analytics, Advanced MySQL Topics
+  
+- LinkedIn: ETL in Python & SQL, Intermediate SQL for Data Scientists, Python Essential Training, SQL Essential Training
+  
+- 365 Data Science: Statistics, Machine Learning with Naive Bayes, Machine Learning with knn, Machine Learning with SVM, Machine Learning with Decision Tree and Random Forests
 
 
 <!---
