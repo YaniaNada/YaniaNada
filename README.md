@@ -27,14 +27,15 @@ I'm a life-long learner who believes in building solid foundations before diving
 
 🛠️💻📖 Tools and Frameworks:
 
-My toolkit includes a blend of powerful analytics tools and programming languages:
+My toolkit includes a blend of analytics tools and programming languages:
 
-- Business Intelligence Tools: Tableau and PowerBi
-- Data Processing: Python (Pandas, NumPy, Matplotlib, Seaborn, Sklearn), Excel
+- BI Tools: Tableau, PowerBi
+- Data Processing: Python (Pandas, NumPy, Matplotlib, Seaborn, Sklearn), MS-Excel
 - Database Management: SQL
 
 
 🎓 Education:
+
 - Data Science & AI: Epitech Institute of Technology in collaboration with Schneider Electric, Spain
 - International Master in Management: EADA Business School, Spain
 - Bachelor in Electrical Engineering: Basaveshwar Engineering College, India
@@ -42,13 +43,10 @@ My toolkit includes a blend of powerful analytics tools and programming language
 
 🔎 Courses:
 
-- FreeCodeCamp: Data Analysis with Python
-
-- Coursera: Python Data Analytics, Advanced MySQL Topics
-  
-- LinkedIn: ETL in Python & SQL, Intermediate SQL for Data Scientists, Python Essential Training, SQL Essential Training
-  
-- 365 Data Science: Statistics, Machine Learning with Naive Bayes, Machine Learning with knn, Machine Learning with SVM, Machine Learning with Decision Tree and Random Forests
+- FreeCodeCamp: Data Analysis with Python.
+- Coursera: Python Data Analytics, Advanced MySQL Topics.
+- LinkedIn: ETL in Python & SQL, Intermediate SQL for Data Scientists, Python Essential Training, SQL Essential Training.
+- 365 Data Science: Statistics, Machine Learning with Naive Bayes, Machine Learning with knn, Machine Learning with SVM, Machine Learning with Decision Tree and Random Forests.
 
 
 <!---
