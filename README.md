@@ -30,7 +30,7 @@ I'm a life-long learner who believes in building solid foundations before diving
 My toolkit includes a blend of analytics tools and programming languages:
 
 - BI Tools: Tableau, PowerBi
-- Data Processing: Python (Pandas, NumPy, Matplotlib, Seaborn, Sklearn), MS-Excel
+- Data Processing: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), MS-Excel
 - Database Management: SQL
 
 
